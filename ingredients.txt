@@ -1,50 +1,23 @@
-100 grand bar
-15 bean soup
-3 musketeers 
-50/50 burger
-98% cocoa stevia bar
-a.1. steak sauce
-a1 steak sauce
 abalone
-abba-zaba
-abbacchio alla cacciatora
 abbamar
 abbaye de belloc
 abelia
 abeliophyllum
 abelmoschus
 abelmoschus moschatus
-aberdeenshire 
-aberfest
-abernethy biscuit
+aberdeen angus
 abertam cheese
-abgoosht
-abies
 abiu
 abkhazian wine
-abnabat
 abondance cheese
-aborrajado
-aboukir almonds
-abra 
-abroma
-abromeitiella
-abronia 
-abrus
-abrus precatorius
-abruzzi
-abruzzo
-abscess root
-absolwent
+abra (clams)
+abronia (edible root n american)
+abruzzo (wine)
 aburaage
-abutilon
-acacia
 acacia aneura
-acacia coriacea
+acacia coriaceas
 acacia cowleana
-acacia estrophiolata
-acacia kempeana
-acacia ligulata
+acacia gum (gum arabic)
 acacia murrayana
 acacia notabilis
 acacia pennata
@@ -54,86 +27,55 @@ acacia stenophylla
 acacia tetragonophylla
 acacia tumida
 acacia victoriae
-acadia
-acadian
-acaena
-acalypha
-acambaro
-acanthaceae
-acanthodium
-acantholimon
-acanthopale
-acanthophoenix
-acanthopleura granulata
-acanthosicyos naudinianus
-acanthus 
-acar
-acca sellowiana
-accasciato
-acceglio
-acceglio 
-accessory fruit
-acephala group
-acer 
-acer saccharum
-acerola
+acámbaro bread
+acanthaceae tea
+acanthophoenix (heart of palm)
+acanthosicyos naudinianus (Gemsbok cucumber)
+acanthus (thai tea)
+acar (asian pickle)
+acar Awak (pickle with eggplant)
+acca sellowiana (pineapple guava and guavasteen)
+accasciato (italian cheese)
+acceglio (Italian cheese from Piedmont)
+accessory fruit (strawberries)
+acephala group (greens, kale, cabbage etc)
+acer saccharum (maple syrup)
 acerola cherry
-acetes
+acetes (small shrimp)
 aceto balsamico tradizionale di modena
 aceto balsamico tradizionale di reggio emilia
-aceto dolce
-acetobacter
-acetylcysteine
-achaar
-achappam
-achariaceae
-acheta domesticus
-achillea
-achillea millefolium
-achimenantha
-achimenes
-achiote
-acidino
-acidity
-acids
-acini di pepe
-acinos
-acipenseridae
-aciphylla
-ackawi
-ackee
-ackee and saltfish
-acmella oleracea
-acmena
-acocil
-acoelorraphe
-aconcagua
-aconcagua 
-aconitum
-acorn
-acorn squash
-acorns
-acorus
-acqua pazza 
-acquacotta
-acquadella o latterino fritto
-acqui
-acradenia
-acrocomia
-acronychia acidula
-acronychia oblongifolia
-acrotriche depressa
-actaea 
-actinidia
-actinidiaceae
-adana
-adansonia
-adansonia digitata
-addams family
-addis ababa
-adenandra
-adenanthos
-adenia
+aceto dolce (preserved sweet sour fruits)
+acetomel (sweet sour sugar syrup)
+acetobacter (vinegar)
+achaar (pickles)
+achappam (indian snack pastry)
+acheta domesticus (crickets yum!)
+achillea millefolium (yarrow)
+achiote (latin american / jamacian seeds)
+acidino (goats cheese from venice)
+acini di pepe (pasta)
+acipenseridae (sturgeon)
+aciphylla (chewable gum)
+ackawi (brined middle eastern cheese)
+ackee (african fruit)
+acmella oleracea (toothache plant - greens, salads etc)
+acmena (lilly pilly jam)
+acocil (crayfish)
+aconcagua (wine)
+acorn (made into flour)
+acorn squash (squash innit)
+acqua pazza (grape pomace with water, also Piquette)
+acquadella o latterino fritto (fried whitebait)
+acqui (see Dolcetto, a wine grape)
+acradenia (aromatic flowers)
+acrocomia (Acrocomia aculeat, fruit of palm species)
+acronychia acidula (lemon aspen, powder)
+acronychia oblongifolia (piquant fruit used in jams)
+acrotriche depressa (fruits made into jam, or eaten raw)
+actinidia (kiwi fruits)
+adana kebabı (mincemeat turkish kebab)
+adansonia digitata (baobab fruit/leaves)
+adenandra (buchu, made into tea / extracted in vinegar, SA)
 adenium
 adenocarpus
 adenophora
